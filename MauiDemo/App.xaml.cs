@@ -14,7 +14,7 @@
             navPage.BarBackground = Colors.Yellow;
             navPage.BarTextColor = Colors.Blue;
 
-            return new Window(new FlexLayoutDemo());
+            return new Window(new AbsoluteLayoutDemo());
         }
     }
 }
