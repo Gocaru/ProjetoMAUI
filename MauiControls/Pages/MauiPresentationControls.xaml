@@ -141,9 +141,6 @@
 
             <WebView HeightRequest="500"
                  Source="https://macoratti.net"/>
-
-
-
         </VerticalStackLayout>
     </ScrollView>
 </ContentPage>
