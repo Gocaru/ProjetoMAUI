@@ -17,8 +17,6 @@
          AbsoluteLayout.LayoutBounds="200, 100, 0.5, 100"
          AbsoluteLayout.LayoutFlags="WidthProportional" />
 
-
-
         <!--<BoxView Color="Red"
          AbsoluteLayout.LayoutBounds="0.1, 0.1, 0.3, 0.3"
          AbsoluteLayout.LayoutFlags="All" />
