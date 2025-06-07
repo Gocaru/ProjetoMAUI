@@ -11,7 +11,7 @@ namespace MauiControls
 
         protected override Window CreateWindow(IActivationState? activationState)
         {
-            return new Window(new MauiCommandControls());
+            return new Window(new MauiSetValueControls());
         }
     }
 }
