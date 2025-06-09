@@ -1,6 +1,4 @@
-﻿using MauiDemoDataBinding.Pages;
-
-namespace MauiDemoDataBinding
+﻿namespace MauiResources1
 {
     public partial class App : Application
     {
@@ -11,7 +9,7 @@ namespace MauiDemoDataBinding
 
         protected override Window CreateWindow(IActivationState? activationState)
         {
-            return new Window(new NotifyBinding());
+            return new Window(new AppShell());
         }
     }
 }
